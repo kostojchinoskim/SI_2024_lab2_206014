@@ -2,16 +2,16 @@
 
 # Control Flow Graph 
 
-![CFG](https://github.com/kostojchinoskim/SI_2024_lab2_206014/assets/93683541/d00a9dda-91fd-4a2c-837f-074147cdef39) \
+![CFG](https://github.com/kostojchinoskim/SI_2024_lab2_206014/assets/93683541/d00a9dda-91fd-4a2c-837f-074147cdef39) 
 
-# Цикломатска комплексност \
+# Цикломатска комплексност 
 Цикломатската комплексност на овој код е 10, истата ја добив преку формулата P+1, каде што P е бројот на предикатни јазли. Во случајoв P=9, па цикломатската комплексност изнесува 10. \
 
-# Тест случаи според Every branchn \
+# Тест случаи според Every branchn 
 
-![SI_slika](https://github.com/kostojchinoskim/SI_2024_lab2_206014/assets/93683541/e036ce7f-0578-4460-8c2a-6f2b13a57597) \
+![SI_slika](https://github.com/kostojchinoskim/SI_2024_lab2_206014/assets/93683541/e036ce7f-0578-4460-8c2a-6f2b13a57597) 
 
-# Тест случаи според Every Statement \
+# Тест случаи според Every Statement 
 
 
 TTN= 400 0.5 123456 (во овој случај два услови се точни додека третиот не е точен и се очекува резулатот да биде false) \
