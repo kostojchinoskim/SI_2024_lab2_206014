@@ -1,6 +1,6 @@
-# Милован Костојчиноски, 206014 \
+# Милован Костојчиноски, 206014 
 
-# Control Flow Graph \
+# Control Flow Graph 
 
 ![CFG](https://github.com/kostojchinoskim/SI_2024_lab2_206014/assets/93683541/d00a9dda-91fd-4a2c-837f-074147cdef39) \
 
